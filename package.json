@@ -1,0 +1,22 @@
+{
+  "name": "js-dsa",
+  "version": "1.0.0",
+  "description": "It contains some important data structures like stack , queue ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purushothaman-source/DSA-Js.git"
+  },
+  "keywords": [
+    "dsa-js"
+  ],
+  "author": "purushothaman-source",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purushothaman-source/DSA-Js/issues"
+  },
+  "homepage": "https://github.com/purushothaman-source/DSA-Js#readme"
+}
