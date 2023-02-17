@@ -1,9 +1,9 @@
-const BinarySearchTree = require("./bst");
-const { QueueUsingArray } = require("./queueUsingArray");
-const { QueueUsingLinkedList } = require("./queueUsingLinkedList");
-const LinkedList = require("./singleLinkedDataStructure");
-const { StackUsingArray } = require("./stackusingArray");
-const { StackUsingLL } = require("./stackUsingLL");
+const BinarySearchTree = require("./src/bst");
+const { QueueUsingArray } = require("./src/queueUsingArray");
+const { QueueUsingLinkedList } = require("./src/queueUsingLinkedList");
+const LinkedList = require("./src/singleLinkedDataStructure");
+const { StackUsingArray } = require("./src/stackusingArray");
+const { StackUsingLL } = require("./src/stackUsingLL");
 
 module.exports = {
   BinarySearchTree,
