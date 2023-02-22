@@ -1,6 +1,6 @@
 {
   "name": "@purushothkabaddi/js-dsa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It contains some important data structures like stack , queue ",
   "main": "index.js",
   "scripts": {
