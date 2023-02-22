@@ -104,8 +104,9 @@ class Trie {
 
       node.children.forEach((value, key) => {
         let newWord = frontNode.word + key;
-        frontNode = new QueueHelper(newWord, value);
-        queue.enqueue(frontNode);
+
+        const childNode = new QueueHelper(newWord, value);
+        queue.enqueue(childNode);
       });
     }
     return words;
